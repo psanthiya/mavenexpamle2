@@ -1,0 +1,2 @@
+# mavenexpamle2
+testmaven
