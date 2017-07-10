@@ -1,2 +1,2 @@
 # mavenexpamle2
-testmaven
+testmaven example
